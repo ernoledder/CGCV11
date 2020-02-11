@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 
-{% if page.unity_dir %}
-   {% include page__unity.html %}
+{% if page.fps %}
+   {% include page__fps.html %}
 {% endif %}
