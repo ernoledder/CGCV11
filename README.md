@@ -4,6 +4,18 @@ You can use the [editor on GitHub](https://github.com/ernoledder/CGCV11/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### FPS
+
+```
+title: "FPS"
+date: 2019-02-11
+unity_dir: fps
+categories:
+  - assignment1
+tags:
+  - fps
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
