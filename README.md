@@ -10,3 +10,6 @@ You can open the following three microgames by clicking on the name:
 [*Karting*](https://veronners.github.io/CGCV11/Karting/index.html)
 
 [*Platformer*](https://veronners.github.io/CGCV11/Platformer/index.html)
+
+### Introduction to C# (Lab 2): 
+[*Beginner Code tutorial*](https://veronners.github.io/CGCV11/index.html)
