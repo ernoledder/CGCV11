@@ -7,7 +7,7 @@ You can open the games from lab 2 & 3 via the following links:
 
 [*Beginner Code tutorial*](https://veronners.github.io/CGCV11/BeginnerCodeLab2/index.html)
 
-[*Block Game*](https://veronners.github.io/CGCV11/BlockGame/index.html)
+[*Breakout Game*](https://veronners.github.io/CGCV11/BlockGame/index.html)
 
 ### Introduction to Unity (Lab 1): 
 You can open the following three microgames by clicking on the name:
