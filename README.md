@@ -12,4 +12,4 @@ You can open the following three microgames by clicking on the name:
 [*Platformer*](https://veronners.github.io/CGCV11/Platformer/index.html)
 
 ### Introduction to C# (Lab 2): 
-[*Beginner Code tutorial*](https://veronners.github.io/CGCV11/index.html)
+[*Beginner Code tutorial*](https://veronners.github.io/CGCV11/BeginnerCode/index.html)
