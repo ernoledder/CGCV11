@@ -4,6 +4,7 @@ Below you can find information about the assignments.
 
 ### Landscape generation (Lab 8):
 You can open the landscape (game) from lab 8 via the following link:
+
 [*Lab 8 Landscapes*](https://veronners.github.io/CGCV11/Lab8_Landscapes/index.html)
 
 ### Introduction to C# (Lab 4 & 5): 
