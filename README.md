@@ -2,6 +2,11 @@
 
 Below you can find information about the assignments.
 
+## Maze Generator (Lab 9):
+You can open the maze generator from lab 9 via the following link:
+
+[*Lab9 Maze Generator*](https://veronners.github.io/CGCV11/Lab9_MazeGenerator/index.html)
+
 ### Landscape generation (Lab 8):
 You can open the landscape (game) from lab 8 via the following link:
 
