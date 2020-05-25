@@ -2,6 +2,11 @@
 
 Below you can find information about the assignments.
 
+## Maze Generator (Lab 10):
+You can open the graphs from lab 10 via the following link:
+
+[*Lab10 Maze Generator*](https://veronners.github.io/CGCV11/Lab10_MazeGenerator/index.html)
+
 ## Maze Generator (Lab 9):
 You can open the maze generator from lab 9 via the following link:
 
